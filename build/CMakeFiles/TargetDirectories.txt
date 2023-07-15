@@ -1,0 +1,3 @@
+/home/immo/cuda/debian11setup/build/CMakeFiles/main.dir
+/home/immo/cuda/debian11setup/build/CMakeFiles/edit_cache.dir
+/home/immo/cuda/debian11setup/build/CMakeFiles/rebuild_cache.dir
