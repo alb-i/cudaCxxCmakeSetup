@@ -1,5 +1,6 @@
 #include <iostream>
 
+// taken from: https://gist.github.com/dpiponi/1502434
 //
 // Nearly minimal CUDA example.
 // Compile with:
